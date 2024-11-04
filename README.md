@@ -8,8 +8,8 @@ This creates an output where the communication kernels are grouped together at t
 
 
 # expectations
-![Screenshot of profile generated from this script]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/abhinavgoel95/scheduling-example/blob/main/images/bad_overlap.png)?raw=true)
+Screenshot of profile generated from this script:
+![Screenshot of profile generated from this script](https://github.com/abhinavgoel95/scheduling-example/blob/main/images/bad_overlap.png?raw=true)
 
-![Screenshot of expected profile]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/abhinavgoel95/scheduling-example/blob/main/images/good_overlap.png)?raw=true)
-
-
+Screenshot of expected profile:
+![Screenshot of expected profile](https://github.com/abhinavgoel95/scheduling-example/blob/main/images/good_overlap.png?raw=true)
